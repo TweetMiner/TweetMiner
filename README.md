@@ -29,7 +29,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 [twitter](https://twitter.com/tminertoken/)
 
 
-◾**as said this is a experimental project pls DYOR
+◾**as said this is a experimental project please DYOR
 and invest only the risk you afford to take..**
 
 
