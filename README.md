@@ -3,8 +3,9 @@
 **this is an experimental project to build a strong community..
 this project is run by the community for the community.**
 
-**tweetminer makes mining easy to everyone.
-all u need is just twitter ac and hold some (atleast 10) $tminer tokens.**
+
+tweetminertweetminer makes mining easy to everyone.
+all u need is just twitter ac and hold some (atleast 10) $tminer tokens.
 
 
 **token economics:**
@@ -23,7 +24,7 @@ team, listings, Marketing: 5000 (released @ 10%/month)
 - [ ] launch tweetmineg
 - [ ] more..
 
-[telegram](https://t.me/t_miner/)
+[telegram](https://t.me/t_miner/) || 
 [twitter](https://twitter.com/tminertoken/)
 
 
