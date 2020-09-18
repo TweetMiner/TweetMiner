@@ -11,10 +11,10 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 **⧫ token economics:**
 * ticker: $tMINER
-* suoply: 29000
-* uniswap: 14000 (100% lock for 1year)
-* mining: 10000
-* team, listings, Marketing: 5000 (released @ 10%/month)
+* 29000  total supply
+* 14000  uniswap liquidity(100% lock for 1year)
+* 10000  mining rewards
+* 5000  team, marketing, listings (released @ 10%/month)
 
 
 
