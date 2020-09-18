@@ -8,8 +8,8 @@ this project is run by the community for the community.**
 all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 
-**token economics:**
 
+**token economics:**
 * ticker: $tMINER
 * suoply: 29000
 * uniswap: 14000 (100% lock for 1year)
@@ -17,8 +17,8 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 * team, listings, Marketing: 5000 (released @ 10%/month)
 
 
-**roadmap**
 
+**roadmap:**
 - [ ] launch on uniswap
 - [ ] locking liquidity
 - [ ] submit application for coingecko n cmc
