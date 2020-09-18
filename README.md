@@ -4,7 +4,7 @@
 this project is run by the community for the community.**
 
 
-***tweetminertweetminer makes mining easy to everyone.
+***tweetminer makes mining easy to everyone.
 all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 
