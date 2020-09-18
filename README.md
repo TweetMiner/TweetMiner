@@ -10,7 +10,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 
 **⧫ token economics:**
-* ticker: $tMINER
+* ticker: **$tMINER**
 * 29000  total supply *(no more minting)*
 * 11000  uniswap liquidity(100% lock for 1year)
 * 10000  mining rewards
@@ -26,8 +26,8 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 - [ ] launch tweetmineg
 - [ ] more..
 
-[telegram](https://t.me/t_miner/) || 
-[twitter](https://twitter.com/tminertoken/)
+**[telegram](https://t.me/t_miner/) || 
+[twitter](https://twitter.com/tminertoken/)**
 
 
 ◾**as said this is a experimental project please DYOR
