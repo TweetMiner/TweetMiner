@@ -18,7 +18,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 
 
-**roadmap:**
+**⛕ roadmap:**
 - [ ] launch on uniswap
 - [ ] locking liquidity
 - [ ] submit application for coingecko n cmc
