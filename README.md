@@ -4,17 +4,17 @@
 this project is run by the community for the community.**
 
 
-tweetminertweetminer makes mining easy to everyone.
-all u need is just twitter ac and hold some (atleast 10) $tminer tokens.
+***tweetminertweetminer makes mining easy to everyone.
+all u need is just twitter ac and hold minimum 10 $tminer tokens.***
 
 
 **token economics:**
 
-ticker: $tMINER
-suoply: 29000
-uniswap: 14000 (100% lock for 1year)
-mining: 10000
-team, listings, Marketing: 5000 (released @ 10%/month)
+-ticker: $tMINER
+-suoply: 29000
+-uniswap: 14000 (100% lock for 1year)
+-mining: 10000
+-team, listings, Marketing: 5000 (released @ 10%/month)
 
 
 **roadmap**
