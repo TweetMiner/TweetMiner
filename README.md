@@ -1,4 +1,4 @@
-# welcome to TWEETMINER
+
 
 **this is an experimental project to build a strong community..
 this project is run by the community for the community.**
