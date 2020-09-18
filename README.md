@@ -9,7 +9,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 
 
 
-**token economics:**
+**⧫ token economics:**
 * ticker: $tMINER
 * suoply: 29000
 * uniswap: 14000 (100% lock for 1year)
