@@ -14,7 +14,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 * 29000  total supply *(no more minting)*
 * 11000  uniswap liquidity(100% lock for 1year)
 * 10000  mining rewards
-* 4000 listing, marketing,meme competetion
+* 4000 listing, marketing,meme competetions
 * 4000  team (released @ 10%/month)
 * contract: 0x
 
