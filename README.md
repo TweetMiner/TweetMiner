@@ -29,7 +29,7 @@ all u need is just a twitter ac and hold minimum 10 $tminer tokens.***
 - [ ] more..
 
 **[telegram](https://t.me/t_miner/) || 
-[twitter](https://twitter.com/tminertoken/)**
+🐦[twitter](https://twitter.com/tminertoken/)**
 
 
 ◾**as said this is a experimental project please DYOR
